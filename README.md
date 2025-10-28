@@ -29,6 +29,10 @@
 ### C Projects
 - [pcaio](https://github.com/pylover/pcaio): Preemtive AsyncIO event loop 
     using the `makecontext(3)`, `getcontext(3)`, `epoll(7)` and `select(2)`.
+- [chttpd](https://github.com/chttpd/chttp): POSIX compatible simple and Fast 
+    HTTP server using the [pcaio](https://github.com/pylover/pcaio).
+- [chttp](https://github.com/chttpd/chttp): POSIX compatible and fast HTTP 
+    packet parser and builder in pure C.
 - [caio](https://github.com/pylover/caio): Monadic Duff's device powered C 
     AsyncIO framework using `epoll(7)`, `io_uring(7)` and `select(2)`.
 - [meloop](https://github.com/pylover/meloop): Monadic event loop for C using 
