@@ -27,7 +27,7 @@
     guard C extension for Python.
 
 ### C Projects
-- [pcaio](https://github.com/pylover/pcaio): Preemtive AsyncIO event loop 
+- [pcaio](https://github.com/pylover/pcaio): Preemptive AsyncIO event loop 
     using the `makecontext(3)`, `getcontext(3)`, `epoll(7)` and `select(2)`.
 - [chttpd](https://github.com/chttpd/chttpd): POSIX compatible simple and Fast 
     application embedded HTTP server using the 
