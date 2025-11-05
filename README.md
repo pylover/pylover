@@ -29,13 +29,14 @@
 ### C Projects
 - [pcaio](https://github.com/pylover/pcaio): Preemptive AsyncIO event loop 
     using the `makecontext(3)`, `getcontext(3)`, `epoll(7)` and `select(2)`.
-- [chttpd](https://github.com/chttpd/chttpd): POSIX compatible simple and Fast 
-    application embedded HTTP server using the 
+- [carrot](https://github.com/pylover/carrot): POSIX compatible simple and 
+    Fast application embedded HTTP client/server library using the 
     [pcaio](https://github.com/pylover/pcaio).
-- [chttp](https://github.com/chttpd/chttp): POSIX compatible and fast HTTP 
-    packet parser and builder in pure C.
-- [caio](https://github.com/pylover/caio): Monadic Duff's device powered C 
-    AsyncIO framework using `epoll(7)`, `io_uring(7)` and `select(2)`.
+- [chttp](https://github.com/pylover/chttp): POSIX compatible and fast HTTP 
+    packet parser and builder in pure/standard C.
+- [caio](https://github.com/pylover/caio): Linux compatible `Monadic`  and 
+    `Duff's Device` powered C `AsyncIO` framework using `epoll(7)`, 
+    `io_uring(7)` and `select(2)`.
 - [meloop](https://github.com/pylover/meloop): Monadic event loop for C using 
     `epoll(7)`.
 - [clog](https://github.com/pylover/clog): Logging library for C.
