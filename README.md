@@ -12,16 +12,16 @@
 - [khayyam](https://github.com/pylover/khayyam): Persian calendar.
 - [adia](https://github.com/pylover/adia): A DSL for ASCII sequence diagram 
     generation + [online demo](https://pylover.github.io/adia/).
-- [prettyc](https://github.com/prettyc): A linter for C language.
-- [nanohttp](https://github.com/nanohttp): An object dispatcher HTTP framework.
-- [tuner](https://github.com/tuner): Musical instrument tunner. 
+- [prettyc](https://github.com/pylover/prettyc): A linter for C language.
+- [nanohttp](https://github.com/pylover/nanohttp): An object dispatcher HTTP framework.
+- [tuner](https://github.com/pylover/tuner): Musical instrument tunner. 
 - [yhttp/markdown](https://github.com/yhttp/markdown): Static markdown file
     server which supports syntax highlighting, theme and Mermaid diagrams.
-- [restfulpy](https://github.com/restfulpy): A tool-chain for creating restful 
+- [restfulpy](https://github.com/pylover/restfulpy): A tool-chain for creating restful 
     web applications.
-- [rootgit](https://github.com/rootgit): Set of command line utilities to 
+- [rootgit](https://github.com/pylover/rootgit): Set of command line utilities to 
     version the Linux root filesystem.
-- [aiolirc](https://github.com/aiolirc): AsyncIO Python wrapper for the 
+- [aiolirc](https://github.com/pylover/aiolirc): AsyncIO Python wrapper for the 
     infra-red kernel module(lirc).
 - [turboguard](https://github.com/pylover/turboguard): Fast string-attack 
     guard C extension for Python.
